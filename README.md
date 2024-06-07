@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Afsar</h1>
-<h3 align="center">IGCSE student at Roots International Schools & Colleges, tech enthusiast, and beginner in machine learning. Skilled in TensorFlow, NumPy, PyTorch, Pandas and scikit-learn. Passionate about contributing to impactful projects.</h3>
+<h3 align="center">IGCSE student at Roots International Schools & Colleges, tech enthusiast, and beginner in machine learning. Skilled in many relevant frameworks. Passionate about contributing to impactful projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim-afsar&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim-afsar" /> </p>
 
