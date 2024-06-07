@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Developing machine learning models for predictive analytics**
 
-- 🌱 I’m currently learning **TensorFlow, PyTorch, Pandas, NumPy and scikit-learn**
+- 🌱 I’m currently learning **TensorFlow, PyTorch, Pandas, NumPy, Matplotlib and scikit-learn**
 
 - 👯 I’m looking to collaborate with **like-minded individuals and teams on innovative machine learning projects**
 
